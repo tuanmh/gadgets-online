@@ -1,0 +1,84 @@
+==========
+References
+==========
+GadgetsOnline
+System.Web.Optimization
+System.Web.Mvc
+System.Web.Routing
+GadgetsOnline.Controllers
+GadgetsOnline.Services
+GadgetsOnline.Models
+System
+System.Collections.Generic
+GadgetsOnline.ViewModel
+System.Web
+GadgetsOnline.Migrations
+System.Data.Entity.Migrations
+System.Data.Entity.Migrations.Builders
+System.CodeDom.Compiler
+System.Data.Entity.Migrations.Infrastructure
+System.Resources
+System.ComponentModel.DataAnnotations
+System.Data.Entity
+System.ComponentModel
+System.Linq
+System.Reflection
+System.Runtime.CompilerServices
+System.Runtime.InteropServices
+project.all
+
+===============
+DownloadedFiles
+===============
+system.data.entity.json
+system.web.json
+project.all.json
+system.web.mvc.json
+
+==============
+ProjectResults
+==============
+----------------------
+Showing results for: C:\Users\Administrator\projects\dotnet-modernization-gadgetsonline-main\GadgetsOnline\GadgetsOnline\GadgetsOnline.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net7.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+Microsoft.EntityFrameworkCore,*
+
+----------------------
+Showing results for: C:\Users\Administrator\projects\dotnet-modernization-gadgetsonline-main\GadgetsOnline\GadgetsOnline\GadgetsOnline.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net7.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+Microsoft.EntityFrameworkCore,*
+
+
+===========
+BuildErrors
+===========
+
+
